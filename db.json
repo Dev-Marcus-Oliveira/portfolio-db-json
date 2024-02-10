@@ -101,6 +101,19 @@
         "../../assets/images/project-images/ubank-img-2.png"
       ],
       "tags": ["HTML", "CSS", "JAVASCRIPT"]
+    },
+    {
+      "id": 8,
+      "name": "IMC - Angular",
+      "summary": "Calculate your body mass index - BMI.",
+      "description": "Project for practicing Angular components and modules, using simple calculations.",
+      "githubLink": "https://github.com/Dev-Marcus-Oliveira/imc-angular",
+      "vercelLink": "https://imc-angular-blond.vercel.app/",
+      "pictures": [
+        "../../assets/images/project-images/imc-img-1.png",
+        "../../assets/images/project-images/imc-img-2.png"
+      ],
+      "tags": ["ANGULAR", "TYPESCRIPT", "HTML", "CSS", "BOOTSTRAP"]
     }
   ]
 }
