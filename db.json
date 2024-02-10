@@ -114,6 +114,19 @@
         "../../assets/images/project-images/imc-img-2.png"
       ],
       "tags": ["ANGULAR", "TYPESCRIPT", "HTML", "CSS", "BOOTSTRAP"]
+    },
+    {
+      "id": 9,
+      "name": "Memoteca - Angular",
+      "summary": "Save song snippets, book recommendations, thoughts, and your best ideas.",
+      "description": "Complete project of the first Angularda Alura course, where we learned how to add, edit and delete information from the database, as well as work with routes.",
+      "githubLink": "https://github.com/Dev-Marcus-Oliveira/memoteca",
+      "vercelLink": "https://memoteca-dev-marcus-oliveira.vercel.app/listarPensamento",
+      "pictures": [
+        "../../assets/images/project-images/memoteca-img-1.png",
+        "../../assets/images/project-images/memoteca-img-2.png"
+      ],
+      "tags": ["ANGULAR", "TYPESCRIPT", "HTML", "CSS"]
     }
   ]
 }
