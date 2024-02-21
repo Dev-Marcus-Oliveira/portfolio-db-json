@@ -12,7 +12,7 @@
         "../../assets/images/project-images/numero-secreto-img-2.png",
         "../../assets/images/project-images/numero-secreto-img-3.png"
       ],
-      "tags": ["JAVASCRIPT", "HTML", "CSS"]
+      "tags": ["HTML", "CSS", "JAVASCRIPT"]
     },
     {
       "id": 1,
@@ -25,7 +25,7 @@
         "../../assets/images/project-images/alura-midi-img-1.png",
         "../../assets/images/project-images/alura-midi-img-2.png"
       ],
-      "tags": ["JAVASCRIPT", "HTML", "CSS"]
+      "tags": ["HTML", "CSS", "JAVASCRIPT"]
     },
     {
       "id": 2,
@@ -113,7 +113,7 @@
         "../../assets/images/project-images/imc-img-1.png",
         "../../assets/images/project-images/imc-img-2.png"
       ],
-      "tags": ["ANGULAR", "TYPESCRIPT", "HTML", "CSS", "BOOTSTRAP"]
+      "tags": ["HTML", "CSS", "TYPESCRIPT", "BOOTSTRAP", "ANGULAR"]
     },
     {
       "id": 9,
@@ -126,7 +126,35 @@
         "../../assets/images/project-images/memoteca-img-1.png",
         "../../assets/images/project-images/memoteca-img-2.png"
       ],
-      "tags": ["ANGULAR", "TYPESCRIPT", "HTML", "CSS"]
+      "tags": ["HTML", "CSS", "TYPESCRIPT", "ANGULAR"]
+    },
+    {
+      "id": 10,
+      "name": "hDC Agency",
+      "summary": "Website presenting the provision of technology services.",
+      "description": "Practical project using bootstrap, using containers, grid, responsiveness, slides and forms.",
+      "githubLink": "https://github.com/Dev-Marcus-Oliveira/hDC-Agency",
+      "vercelLink": "https://hdc-agency-dev-marcus-oliveira.vercel.app/",
+      "pictures": [
+        "../../assets/images/project-images/hdc-img-1.png",
+        "../../assets/images/project-images/hdc-img-2.png",
+        "../../assets/images/project-images/hdc-img-3.png"
+      ],
+      "tags": ["HTML", "CSS", "JAVASCRIPT", "BOOTSTRAP"]
+    }
+    ,
+    {
+      "id": 11,
+      "name": "To-do list",
+      "summary": "Organize your tasks quickly and conveniently.",
+      "description": "First practical project from Udemy's Angular v15 course.",
+      "githubLink": "https://github.com/Dev-Marcus-Oliveira/to-do-list",
+      "vercelLink": "https://to-do-list-dev-marcus-oliveira.vercel.app/",
+      "pictures": [
+        "../../assets/images/project-images/todo-list-img-1.png",
+        "../../assets/images/project-images/todo-list-img-2.png"
+      ],
+      "tags": ["HTML", "SCSS", "TYPESCRIPT", "ANGULAR"]
     }
   ]
 }
