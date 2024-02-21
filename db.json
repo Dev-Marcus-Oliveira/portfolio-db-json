@@ -145,7 +145,7 @@
     ,
     {
       "id": 11,
-      "name": "To-do list",
+      "name": "Angular To-do list",
       "summary": "Organize your tasks quickly and conveniently.",
       "description": "First practical project from Udemy's Angular v15 course.",
       "githubLink": "https://github.com/Dev-Marcus-Oliveira/to-do-list",
