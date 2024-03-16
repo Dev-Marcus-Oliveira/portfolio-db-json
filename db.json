@@ -155,6 +155,31 @@
         "../../assets/images/project-images/todo-list-img-2.png"
       ],
       "tags": ["HTML", "SCSS", "TYPESCRIPT", "ANGULAR"]
+    },
+    {
+      "id": 12,
+      "name": "Mochila de viagem",
+      "summary": "Don't forget any items for your trip.",
+      "description": "Add and remove items by selecting title and quantity, don't worry as the information will be saved in LocalStorage.",
+      "githubLink": "https://github.com/Dev-Marcus-Oliveira/mochila-de-viagem",
+      "vercelLink": "https://mochila-de-viagem-git-main-devmarcusoliveiras-projects.vercel.app/",
+      "pictures": [
+        "../../assets/images/project-images/mochila-de-viagem-img-1.png",
+        "../../assets/images/project-images/mochila-de-viagem-img-2.png"
+      ],
+      "tags": ["HTML", "CSS", "JAVASCRIPT"]
+    },
+    {
+      "id": 13,
+      "name": "Alurabook",
+      "summary": "Filter and choose your favorite books.",
+      "description": "Working with grid and category filters using JS.",
+      "githubLink": "https://github.com/Dev-Marcus-Oliveira/alura-book",
+      "vercelLink": "https://alura-book-devmarcusoliveiras-projects.vercel.app/",
+      "pictures": [
+        "../../assets/images/project-images/alura-book-img-1.png"
+      ],
+      "tags": ["HTML", "CSS", "JAVASCRIPT"]
     }
   ]
 }
