@@ -180,6 +180,19 @@
         "../../assets/images/project-images/alura-book-img-1.png"
       ],
       "tags": ["HTML", "CSS", "JAVASCRIPT"]
+    },
+    {
+      "id": 14,
+      "name": "Mochila de viagem - Angular",
+      "summary": "Create, mark, edit and delete your shopping list.",
+      "description": "CRUD using the well-known shopping list project, however, this time, using the Angular framework to increase the level of our application.",
+      "githubLink": "https://github.com/Dev-Marcus-Oliveira/lista-de-compras-angular",
+      "vercelLink": "https://lista-de-compras-angular.vercel.app/",
+      "pictures": [
+        "../../assets/images/project-images/mochila-de-viagem-angular-img-1.png",
+	"../../assets/images/project-images/mochila-de-viagem-angular-img-2.png"
+      ],
+      "tags": ["HTML", "CSS", "TYPESCRIPT", "ANGULAR"]
     }
   ]
 }
